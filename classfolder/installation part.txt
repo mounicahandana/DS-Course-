@@ -1,0 +1,13 @@
+installation of python 
+
+https://www.python.org/downloads/
+
+installation of vs code 
+
+https://code.visualstudio.com/download
+
+
+anaconda Installation 
+
+https://www.anaconda.com/products/individual
+

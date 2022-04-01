@@ -1,0 +1,53 @@
+
+
+INSTALLED JUPYTER NOTEBOOK 
+
+
+
+
+htmml tags
+head
+title
+body
+pre
+code- to display code in web page 
+br - no end tag
+sup - superscript tag
+sub
+small
+big
+del 
+img -- attributes(src,alt,width,height,align)
+table- tags(caption,tr lo th,td)              attributes-(border,cellpadding,cellspacing,rowspan,colspan,bordercolor,bgcolor,height,width) 
+lists - ol lo li tag theskovali-ol attrites - type='i'(it gives roman),start='7'
+        ul - attributes - type=discor circle square
+        dl - dt,dd tags 
+marquee -  scroll the text or image 
+            
+          attributes- scrollamount,bgcolor,width=25%,direction
+
+a  <a href='' target='blank'>LINK TEXT </a>
+   <a href='mailto:sirichan2489*@gmail.com'>MAIL US</a>
+
+audio -<audio controls> audio tag lo <source src='' > (no need to close this )
+
+video - <video controls>
+
+Forms  - STILL pending.............
+
+p
+i
+b
+h1 to h6
+mark - to highlight
+u or underline
+
+ATTRIBUTES: 
+body tag attributes
+bgcolor='red'
+background='image url'
+text='red'
+alink - after clikcing link
+vlink - befor clicking link
+
+

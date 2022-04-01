@@ -1,0 +1,158 @@
+'''''''''''''''''''''''''''''''''''
+python invented by - guido van rossum 1991
+
+Monty python circus bbc show 
+
+
+
+
+coding                       programming
+code write                   step step 
+
+
+
+
+
+compiler   c c++ c#                       interepeter
+
+                                         python contains both comp nd inter
+....                                      ''''''
+                                          code - compiler - bytecode-                                     pythonvirtual machine --libraries nd                                       inputs-Output
+....
+....
+....
+....
+
+
+module: collection of functions
+
+package:collection of module
+
+library:collection of package
+
+framework:arch mvc mvt
+
+
+
+01-binary
+
+
+
+hi
+'
+'
+'
+compiler
+.
+.
+0101010101
+'
+'
+pc
+
+
+
+python interepeter ,scripting,high level language
+
+why python?
+
+1.famous- large librarys community
+2.open source
+3.easy learn
+4.portable 
+5.extensible
+6.english 
+7.fully oops   
+
+flavours of python
+
+cpython
+rubypython
+jython
+ironpython   c#
+
+
+where python?
+1.Data Science-numpy,pandas,sklearn,seaborn,plotly,matplotlib
+2.machine learning-numpy,pandas,sklearn,seaborn,plotly,matplotlib
+3.deep learning-tensorflow,pytorch,keras
+4.game development-pygame
+5.gui-tkinter,pyqt5
+6.android development-kivy
+7.free_lancing
+8.automation-pytest,pyunit,selenium
+9.ai-all in one 
+10.web development-django,flask,pyramid,cherrypy,bottle
+11.computer vision-opencv,simplecv
+12.other
+
+excel,powerpoint and devops - by us 
+
+
+
+
+data science                     python
+
+1.python(adv oops webscraping)   python adv python django                                python developer
+2.dsa                            python developer 
+3.ml basics(powerbi )
+4.total stats
+5.prob 
+6.calclus
+7.ml algorithms
+8.dl 
+9.nlp
+10.sql
+11.github
+12.aws deployment
+
+1.python development
+2.data scientist
+3.ml eng
+4.deep eng  
+5.data analyst  
+6.data engineer 
+7.nlp engineer
+
+
+ai:
+
+1.python development
+2.data scientist
+3.ml eng
+4.deep eng  
+5.data analyst   
+6.data engineer 
+7.nlp engineer
+8.computer vision engineer
+
+
+
+''''''''''''''''''''''''''''''''''''''''''
+ds 3months above python+ds
+python 45days 15days python
+ai 3months python+ds+ai
+surprise:
+10 projects
+
+
+
+job portal
+10post
+
+
+
+task 3
+certificate project
+asingment
+resume building
+mock interviews
+
+
+.py - source code
+compiler
+.pyc - byte code-platfrom independent 
+
+pvm - execute - output 
+
+

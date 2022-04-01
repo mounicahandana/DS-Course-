@@ -1,0 +1,43 @@
+
+In this document i would like to mention about OOPS Concept in Python 
+
+IN OOP(Object oriented programming )there are mainly 6 concepts 
+
+1. CLASS : class is like a blueprint of object 
+          
+          for example : fruit is a blueprint whereas apple,banana etc are objects.
+          Syntax      :  def ClassName:
+    
+
+2. OBJECT: it is a physical entity b using object we can access all functions and variables in a specific class
+
+            Syntax : Objname=ClassName()
+    
+
+3.POLYMORPHISM : It can contain many forms poly means many
+
+4.INHERITANCE : The process of getting properties and functions from parent to child class 
+
+                    parent class (base class, superclass)
+                    child class(derived class)
+                
+                There are many types of inheritance like 
+                1.SINGLE INHERITANCE : single parent and child class
+                2.MULTILEVEL INHERITANCE : Single parent and more child classes
+                3.MULTIPLE INHERITANCE : Two parents and one child class
+                4. HIEREARCHAL INHEITANCE : one parent and two childrens like siblings
+
+5. Data Abstraction :  The process of hiding the functionaltyy and showing the implementation is calles Abstraction
+ 
+                        For example :  when we apply brake in car we r not aware of what happening inside but we know the implementation.
+
+
+6.ENCAPSULATION    : The process of wrapping variables(data memebers) and methods(functions) together is called encapsulation.
+
+                      There are three access modifiers to discuss . we use this whenever we want to hide the data . 
+
+                      1. PUBLIC : This public class can be accessed by everone . By default ever class is public
+                      2. PRIVATE : This class is private. No class can access this .
+                      3. PROTECT : Here comes INHERITANCE LIKE if i keep any class protect then the child class of that protect class can only access the content of the protect class.
+
+    
